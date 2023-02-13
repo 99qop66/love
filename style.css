@@ -45,7 +45,8 @@ img.background {
     font-weight: 700;
 }
 #cat {
-    position: relative;
+    position: absolute;
+    width: 60%;
     top: 10vw;
     left: 46.5vw
 }
